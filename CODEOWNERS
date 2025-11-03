@@ -1,0 +1,28 @@
+# This file defines code owners for the repository
+# Each line is a file pattern followed by one or more owners
+# Order is important; the last matching pattern takes precedence
+# More info: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Global owners - these people own everything
+* @AnLoMinus
+
+# Documentation
+/docs/ @AnLoMinus
+*.md @AnLoMinus
+README.md @AnLoMinus
+
+# GitHub workflows
+/.github/ @AnLoMinus
+
+# Scripts
+*.sh @AnLoMinus
+AntiPorn @AnLoMinus
+
+# Hosts files
+PornHosts @AnLoMinus
+
+# Configuration files
+.gitignore @AnLoMinus
+.editorconfig @AnLoMinus
+CODEOWNERS @AnLoMinus
+

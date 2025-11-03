@@ -4,170 +4,360 @@
   
 </div>
 
-AntiPorn
+<div align=center>
 
-AntiPorn - Blocking Porno Sites. Wait for more...
-- Articles for saving semen for idleness.
-- Tips for strengthening the mind and durability.
-- Storing energy and directing it to the right places.
-- And wait for more ...
----
+# 🛡️ AntiPorn
 
-### In this article we will review the following topics:
+**חסימת אתרי פורנו - פתרון מקיף**
 
-- Why keep the covenant? And what do you gain by keeping the covenant?
-- Why is sperm not allowed to be ejected?
-- Is there no despair in the world at all?
-- How are they accidentally and accidentally saved from the above?
-- What causes sin?
-- Kerry or intentional - what to watch out for?
-- What do I do if I fall?
-- How do you deal with forbidden sights (including porn addiction)?
-- Is it impossible to keep the covenant?
-- How does this affect home peace and love between a man and his wife?
-- Corrections to the defect of the covenant and the latter.
-- Recommended books to read on the subject
-- The article of the Holy Muharram on the subject of keeping the covenant and a seed for annulment.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/AnLoMinus/AntiPorn)](https://github.com/AnLoMinus/AntiPorn/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/AnLoMinus/AntiPorn)](https://github.com/AnLoMinus/AntiPorn/issues)
+[![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](CHANGELOG.md)
+
+**גרסה:** 1.1.0 | **עדכון אחרון:** 2025
+
+</div>
 
 ---
 
-### It is known how serious a matter is that violates the covenant, which is torn apart badly, and how much evil is drawn from it. In the following, we will detail some of the mentions in the holy books ("Glue from the Brotherhood" and "The Brotherhood of Our Souls"):
-- Causes length of exile.
-- He will not get to see the face of Shechinah.
-- Will not rise in the resurrection.
-- D. His sons die when they are small.
-- His soul rolls into an inefficient man.
-- Causes reincarnation for several souls.
-- Brings deaths and epidemics to the world.
-- Prevents him from understanding the study of the Torah, and in particular the mysteries of the Torah.
-- Causes poverty to him and his sons.
-- His sons will be wicked, infidels and heretics.
-- His prayer and teachings are not accepted.
-- He has no part in the next world, and must die in the hands of heaven.
-- Considered to be shedding blood.
-- Causes breathing difficulties.
+## 📖 על הפרויקט
+
+**AntiPorn** הוא כלי מקיף לסיוע בחסימת אתרי תוכן לא הולם באמצעות שינוי קובץ HOSTS של המערכת. הפרויקט כולל:
+
+- 🚫 **רשימה מקיפה** של אתרים לחסימה (עשרות אלפי אתרים)
+- 🤖 **סקריפט התקנה אוטומטי** ל-Linux, macOS ו-Windows
+- 📚 **מאמרים והדרכות** לחיזוק הנפש והתמדה
+- 💪 **טיפים** לשמירת אנרגיה והכוונתה למקומות הנכונים
+- 🧘 **מדריכים רוחניים** על שמירת הברית
 
 ---
 
-### This sin is caused to man because of other bad deeds, which lead to a continuation of this terrible sin. These include:
+## 🚀 התחלה מהירה
 
-- Which tells slander and lies.
-- Which reveals a secret that is not worthy of being revealed.
-- Who blesses a blessing to nullify.
-- Who swears and does not keep.
-- Who looks at the woman and her clothes.
-- That I eat coarse food.
-- Sleeping in a room alone.
-- Sleeping on his stomach.
-- Who is often worried.
-- Meditating on the day of contemplation of an offense.
+### התקנה מהירה
 
----
+```bash
+# Clone המאגר
+git clone https://github.com/AnLoMinus/AntiPorn.git
+cd AntiPorn
 
-### First thing: What does one who keeps the covenant gain?
+# הרצת סקריפט ההתקנה
+chmod +x AntiPorn
+./AntiPorn
+```
 
-- Keeper of his covenant, the world exists by virtue of which it is said: "Thus saith the Lord, If I have not broken day and night, I have not made the laws of heaven and earth."
-- Is called righteous
-- Gets a livelihood in abundance and comfort!
-- Wins home peace and love between a man and his wife.
-- His prayer goes up before the name and works a lot.
-- All who keep his covenant, as if the whole Torah existed.
-- The future to come gets to see Gd literally without a differentiating screen.
-- A winner who dies in the burial of the beha.
-- A winner that the Shechinah will always serve him, and a winner to photograph Gd, and her portrait is impressive in the Shechinah.
-- A winner whose body shines, and no maggot and worm controls him after her death.
-- He is called a hero, "because what kind of hero? This is the one who conquers his instinct," and just an instinct is the instinct of incest.
-- For the future to come God will clothe him in the garb of a king.
-- Gets to be clinging to Gd, and that is the purpose of creation.
-- If he contracted a disease that is, God Himself heals him and not by an angel.
-- Attracts all kinds of good influences, both livelihood and other things.
-- Gd has kept, and there is no man and nothing in the world who can touch and harm him.
-- Gd boasts of Him every day, Kana ': three Gd declares them every day, "a bachelor Citrus in the volume and is not a sinner, "and this is the only thing that God praises in this way.
-- God always remembers him.
-- Is called innocent, as a dictum: "Man Dantir Brit Etkri is an innocent man."
-- Is called Tzaddik, as Yosef the Tzaddik who is in terms of the foundation.
-- All the abundance that descends into the world descends first to it and then to the whole world.
-- His sons will be righteous, and he who gives his soul to repair this defect, must come out of it some righteous man And a saint from his descendants.
-- No sabotage angels are allowed to approach him.
-- Continues to influence the abode of our strength, and protects the whole world.
-- Gets to enjoy the work of God, such as: On Shabbat gets to feel what is the pleasure and sanctity of Shabbat, as well Gets to feel the soul excess in him.
-- God Okir was on jail.
-- He will be saved from the torments of Messiah and from all kinds of deaths, and will be redeemed.
-- After the resurrection, on the Day of Judgment, he will remain alive.
-- When Gd renews His world in the seventh millennium, He will not renew His world only thanks to the keepers of the covenant.
-- A creditor is called to the Shechinah, and Iz can direct his prayers properly.
-- Wins the kingdom as Joseph the righteous.
-- From one of Kova and its neighbors.
-- Wins after his death to enter all the gates of the righteous.
-- It is called H.I., and is linked to the degree of H.I.
-- When he dies from the world the angel of death is not allowed to approach him, and no one dies by him.
-- There is a line on it with the name Hoya B'H, and all the upper and lower ones are afraid of it.
-- Gets a lot of souls out of hell.
-- Become a partner of Gd in the creation of his world, as a dictum: "I did not put heaven and earth. "
-- Won to subdue D. unclean shells: iniquity, corruptor, nose, and wrath, all troubles and evils Who come into the world come because of them.
-- God hides him from his enemies.
-- No cataloger can touch his soul.
-- Wins to reach high stairs.
-- Causes the sweetening of the laws.
-- Is called a whole person, and is also called a saint.
-- When there is sorrow in the world, the fathers participate with it in revoking the decree.
-- The outsiders and SA are moving away from him.
-- From among the redemption and the building of the synagogue.
-- After his death he deserves to be buried in the ark as Joseph the righteous.
-- Exploitation of all laws that will come upon him after his death.
-- His body does not return to being dirt, and taken advantage of from the beating of the grave.
-- All the ascents and descents of the angels for their mission in this world take place thanks to him.
-- Thanks to him, many people are saved from the defect of the covenant, and this is because he influences a world of sacred abundance in the world And purity.
-- He deserves to be offered on the altar as a high priest, and in the future he will be privileged to offer sacrifices even though Pi who is not Cohen.
-- His mind is refined, and gains wisdom, understanding, and knowledge.
-- Won to be a chariot for the upper element.
-- Wins the credit of others, and his words are acceptable.
-- Won to do charity properly.
-- Won to pray properly.
-- Wins complete faith.
-- Supervised under more private supervision from all over the world.
-- And the last and least virtue of all, is the general virtue, and it is: As long as the people of Israel keep the covenant, no nation and language can control them and do them any harm.
-
+**למדריך מפורט**: [📘 התחלה מהירה](docs/GETTING_STARTED.md)
 
 ---
 
+## 📚 תיעוד
 
-# Anti Porn HOSTS File
-The purpose of this repository is to distribute a useful mean to fight porn addiction.
+### מדריכים עיקריים
 
-If you are willing to improve your life and get rid of porn addiction then Google [`@NoFap`](https://en.wikipedia.org/wiki/NoFap)
+- 📖 [**מדריך התחלה מהירה**](docs/GETTING_STARTED.md) - התקנה והתחלת שימוש
+- 📝 [**מדריך שימוש**](docs/USAGE.md) - הוראות שימוש מפורטות
+- ❓ [**שאלות נפוצות (FAQ)**](docs/FAQ.md) - תשובות לשאלות נפוצות
+- 🔧 [**פתרון בעיות**](docs/TROUBLESHOOTING.md) - פתרון בעיות נפוצות
 
-## What's the HOSTS file and how it can prevent access to porn sites?
-HOSTS file contains the mappings of IP addresses to host names.
+### תיעוד למפתחים
 
-With HOSTS file we can prevent our browser to access porn sites.
+- 🏗️ [**ארכיטקטורה**](docs/ARCHITECTURE.md) - מבנה הפרויקט וההחלטות הטכניות
+- 💻 [**מדריך פיתוח**](docs/DEVELOPMENT.md) - מדריך למפתחים
+- 📑 [**מרכז התיעוד**](docs/INDEX.md) - שער לכל התיעוד
 
-## What's so special about this repository?
-PornHosts contains a huge list of porn sites (probably the biggest list you can find on the Internet).
+---
 
-Just by copy-pasting its content on your machine's HOSTS file enables the blocking mechanism.
+## 🤝 תרומה לפרויקט
 
-## HOSTS in Windows 7/8.x/10
-1. Right mouse click on Notepad icon then click on `Run as administrator`
-2. File → Open... then insert the path `C:\windows\system32\drivers\etc\hosts`
-3. Add a new line and copy-paste the entire content of HOSTS.txt
-4. Save
-5. Reboot
+אנו מעודדים תרומה! הפרויקט פתוח לתרומות מכל סוג:
 
-## HOSTS in Linux and macOS
-1. Open the terminal
-2. Type `sudo vim /etc/hosts`
-3. Add a new line and copy-paste the entire content of HOSTS.txt
-4. Save
-5. Reboot
+- 🐛 דיווח על באגים
+- 💡 הצעת תכונות חדשות
+- 📚 שיפור תיעוד
+- 🔧 תרומה לקוד
 
-## Make a promise
-Once the mechanism is in place and working, do not disable it.
+**לקריאה נוספת:**
 
-If you disable it on demand to watch porns then you defeat the very purpose of it, but more than that you betray yourself.
+- 📘 [**מדריך תרומה**](CONTRIBUTING.md) - מדריך מלא לתרומה
+- 📜 [**קוד התנהגות**](CODE_OF_CONDUCT.md) - כללי התנהגות בקהילה
+- 🔒 [**מדיניות אבטחה**](SECURITY.md) - דיווח על פגיעות אבטחה
 
-- Sources: [Anti-Porn-HOSTS-File](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File)
+---
 
+## 🔗 קישורים מהירים
+
+### מסמכי קהילה
+
+- [CONTRIBUTING.md](CONTRIBUTING.md) - כיצד לתרום
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) - קוד התנהגות
+- [SECURITY.md](SECURITY.md) - מדיניות אבטחה
+- [CHANGELOG.md](CHANGELOG.md) - יומן שינויים
+- [LICENSE](LICENSE) - רישיון MIT
+
+### משאבים נוספים
+
+- [saved-from-the-sin.md](saved-from-the-sin.md) - איך להינצל מהחטא
+- [seed_to_nullify.md](seed_to_nullify.md) - על ביטול הזרע
+
+---
+
+## 🎯 תכונות
+
+✅ **רשימה מקיפה** - עשרות אלפי אתרים ברשימת החסימה  
+✅ **התקנה קלה** - סקריפט אוטומטי פשוט  
+✅ **תמיכה רב-פלטפורמית** - Linux, macOS, Windows  
+✅ **גיבוי אוטומטי** - שמירה על hosts מקורי לפני שינויים  
+✅ **תיעוד מקיף** - מדריכים מפורטים בעברית  
+✅ **קהילה פעילה** - תמיכה ותרומות מקהילת המפתחים  
+
+---
+
+## ⚙️ התקנה מפורטת
+
+### Linux ו-macOS
+
+1. Clone המאגר:
+
+```bash
+git clone https://github.com/AnLoMinus/AntiPorn.git
+cd AntiPorn
+```
+
+2. הרץ את הסקריפט:
+
+```bash
+chmod +x AntiPorn
+./AntiPorn
+```
+
+3. בחר אפשרות `[a]` להתקנה אוטומטית
+
+### Windows
+
+1. לחץ ימני על **Notepad** → **"Run as administrator"**
+2. פתח: `C:\Windows\System32\drivers\etc\hosts`
+3. העתק את תוכן `PornHosts` לסוף הקובץ
+4. שמור ואתחל מחדש
+
+**לקריאה נוספת**: [מדריך התקנה מפורט](docs/GETTING_STARTED.md)
+
+---
+
+## 🆘 תמיכה
+
+- 📖 [**תיעוד מלא**](docs/INDEX.md)
+- ❓ [**שאלות נפוצות**](docs/FAQ.md)
+- 🔧 [**פתרון בעיות**](docs/TROUBLESHOOTING.md)
+- 🐛 [**דיווח על באג**](https://github.com/AnLoMinus/AntiPorn/issues/new?template=bug_report.md)
+- 💡 [**בקשת תכונה**](https://github.com/AnLoMinus/AntiPorn/issues/new?template=feature_request.md)
+
+---
+
+## 📖 מאמרים ומדריכים רוחניים
+
+AntiPorn מציע גם תוכן חינוכי ורוחני:
+
+### נושאים שמובאים בפרויקט
+
+- מדוע לשמור על הברית? ומה מרוויחים בשמירת הברית?
+- מדוע לא מותר להוציא זרע?
+- האם אין ייאוש בעולם כלל?
+- איך להינצל מהחטא - גם בשוגג וגם במזיד?
+- מה גורם לחטא?
+- שוגג או מזיד - מה צריך להיזהר?
+- מה לעשות אם נופלים?
+- איך להתמודד עם מראות אסורים (כולל התמכרות לפורנו)?
+- האם בלתי אפשרי לשמור על הברית?
+- איך זה משפיע על שלום הבית ואהבה בין איש לאשתו?
+- תיקונים למום הברית והאחרון.
+- ספרים מומלצים לקריאה בנושא
+- מאמר הקדוש מוהרר על שמירת הברית וביטול זרע
+
+**קרא עוד:**
+
+- [איך להינצל מהחטא](saved-from-the-sin.md)
+- [על ביטול הזרע](seed_to_nullify.md)
+
+---
+
+### מה זה HOSTS ומה מיוחד בפרויקט הזה?
+
+קובץ HOSTS מכיל מיפוי של כתובות IP לשמות hosts. בעזרת קובץ HOSTS ניתן למנוע מהדפדפן גישה לאתרי פורנו.
+
+**PornHosts** מכיל רשימה ענקית של אתרי פורנו (כנראה הרשימה הגדולה ביותר שתוכל למצוא באינטרנט).
+
+פשוט על ידי העתקת התוכן לקובץ ה-HOSTS של המחשב שלך, מנגנון החסימה מופעל.
+
+**מקורות**: [Anti-Porn-HOSTS-File](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File)
+
+---
+
+## ⚠️ הבטחה חשובה
+
+ברגע שהמנגנון מוגדר ועובד, **אל תכבה אותו**.
+
+אם תכבה אותו כדי לצפות בפורנו, אתה לא רק מנוצח את המטרה, אלא גם בוגד בעצמך.
+
+---
+
+## 🎁 מה מרוויחים שומרי הברית?
+
+לפי המקורות הקדושים ("דבק מחברים" ו-"אחוות נפשותינו"), שומר הברית זוכה ל:
+
+- נקרא צדיק
+- מקבל פרנסה בשפע ובנוחות!
+- זוכה לשלום בית ואהבה בין איש לאשתו
+- תפילתו עולה לפני ה' ועובדת הרבה
+- נחשב כאילו כל התורה קיימת אצלו
+- זוכה לראות את ה' פנים אל פנים בעולם הבא
+- גופו זוהר, ושום תולעת ורימה לא שולטת בו אחרי מותו
+- נקרא גבור, "כי איזה הוא גבור? הכובש את יצרו"
+- ה' מסתיר אותו מאויביו
+- זוכה להגיע לדרגות גבוהות
+- זוכה לאמונה שלמה
+- ועוד מעלות רבות ועצומות...
+
+---
+
+## 📜 תוכן מפורט - שמירת הברית
+
+### ⚠️ אזהרות ונושאים חשובים
+
+ידוע עד כמה חמור העניין של מפר הברית, שקרוע רע, וכמה רעות נמשכות ממנו. בספרים הקדושים ("דבק מחברים" ו-"אחוות נפשותינו") מובאים:
+
+#### חטא הברית גורם ל
+
+- גורם לאריכות הגלות
+- לא יזכה לראות פני השכינה
+- לא יקום בתחיית המתים
+- בניו ימותו כשהיו קטנים
+- נשמתו מתגלגלת לאדם לא כשר
+- גורם לגלגול נשמות רבות
+- מביא מיתות ומגפות לעולם
+- מונע ממנו להבין בלימוד התורה, ובפרט בסתרי התורה
+- גורם עוני לו ולבניו
+- בניו יהיו רשעים, כופרים ומינים
+- תפילתו ותורתו לא מתקבלות
+- אין לו חלק לעולם הבא, וצריך למות בידי שמים
+- נחשב כשופך דמים
+- גורם לקשיי נשימה
+
+---
+
+#### מה גורם לחטא זה?
+
+החטא הזה נגרם לאדם בגלל מעשים רעים אחרים, שמובילים להמשכת החטא הנורא הזה. ביניהם:
+
+- המספר לשון הרע ושקרים
+- המגלה סוד שאינו ראוי להיגלות
+- המברך ברכה לבטלה
+- הנשבע ואינו מקיים
+- המסתכל באשה ובבגדיה
+- האוכל מאכלים גסים
+- השינה בחדר לבד
+- השינה על הבטן
+- הדואג לעתים קרובות
+- המהרהר ביום הרהורי עבירה
+
+---
+
+### 🌟 מעלות שומרי הברית - רשימה מפורטת
+
+#### מה מרוויח שומר הברית?
+
+- שומר בריתו, העולם מתקיים בזכותו שנאמר: "כה אמר ה' אם לא בריתי יומם ולילה חוקות שמים וארץ לא שמתי"
+- נקרא צדיק
+- מקבל פרנסה בשפע ובנוחות!
+- זוכה לשלום בית ואהבה בין איש לאשתו
+- תפילתו עולה לפני ה' ועובדת הרבה
+- כל שומר בריתו, כאילו כל התורה קיימת אצלו
+- לעתיד לבוא זוכה לראות את ה' ממש בלי מסך מבדיל
+- זוכה למות בקבורת ה"בה
+- זוכה שהשכינה תשרה עליו תמיד, וזוכה לצלם ה', ותמונתו מתגלה בשכינה
+- זוכה שגופו זוהר, ושום תולעת ורימה לא שולטת בו אחרי מותו
+- נקרא גבור, "כי איזה הוא גבור? הכובש את יצרו", ויצר זה הוא יצר העריות
+- לעתיד לבוא ה' ילביש אותו בגדי מלך
+- זוכה להידבק בה', וזה תכלית הבריאה
+- אם חלה במחלה, ה' בעצמו מרפא אותו ולא על ידי מלאך
+- מושך כל מיני השפעות טובות, גם פרנסה וגם דברים אחרים
+- ה' שומר עליו, ואין אדם ודבר בעולם שיכול לנגוע ולפגוע בו
+- ה' מתפאר בו כל יום, קנ"א: שלוש פעמים ה' מכריז עליהם כל יום: "רווק צעיר בספר ולא חוטא", וזה הדבר היחיד שה' מתפאר בו כך
+- ה' תמיד זוכרו
+- נקרא תם, כדכתיב: "איש דתיר ברית נקרא תם"
+- נקרא צדיק, כיוסף הצדיק שהוא כנגד היסוד
+- כל השפע שיורד לעולם יורד תחילה אליו ואז לכל העולם
+- בניו יהיו צדיקים, ומי שנותן נפשו לתקן מום זה, צריך לצאת ממנו צדיק וקדוש מצאצאיו
+- אין מלאכי חבלה מורשים להתקרב אליו
+- ממשיך להשפיע על משכן עוזנו, ושומר על כל העולם
+- זוכה ליהנות מעבודת ה', כגון: בשבת זוכה להרגיש מה זה תענוג וקדושת שבת, וכן זוכה להרגיש נשמה יתירה בו
+- ה' עוקר עליו כל דין
+- ינצל מכל מיני מיתות, ויגאל
+- אחרי תחיית המתים, ביום הדין, יישאר חי
+- כשה' יחדש את עולמו באלף השביעי, לא יחדש את עולמו אלא בזכות שומרי הברית
+- נקרא בעל חוב לשכינה, ויכול לכוון תפילותיו כראוי
+- זוכה למלכות כיוסף הצדיק
+- מזכה את קוב"ה ושכניו
+- זוכה אחרי מותו להיכנס בכל שערי הצדיקים
+- נקרא ה"י, וקשור לדרגת ה"י
+- כשהוא ימות מהעולם, מלאך המוות לא מורשה להתקרב אליו, ואין מוות על ידו
+- יש עליו חוט עם השם הויה ב"ה, וכל העליונים והתחתונים יראים ממנו
+- מוציא נשמות רבות מגיהנום
+- נעשה שותף לה' בבריאת עולמו, כדכתיב: "לא שמתי שמים וארץ"
+- זוכה לכבוש את הקליפות הטמאות: עוון, משחית, אף וחמה, כל הצרות והרעות שבאות לעולם באות בגללם
+- ה' מסתיר אותו מאויביו
+- אין תולע יכול לנגוע בנשמתו
+- זוכה להגיע לדרגות גבוהות
+- גורם להמתקת הדינים
+- נקרא אדם שלם, ונקרא גם קדוש
+- כשיש צער בעולם, האבות משתתפים עמו בביטול הגזירה
+- הקליפות והסט"א מתרחקות ממנו
+- מזכה את הגאולה ובניין בית המקדש
+- אחרי מותו זוכה להיקבר בארון כיוסף הצדיק
+- זוכה מכל דינים שיבואו עליו אחרי מותו
+- גופו לא חוזר להיות עפר, וזוכה מהכאת הקבר
+- כל העליות והירידות של המלאכים לשליחותם בעולם הזה קורים בזכותו
+- בזכותו אנשים רבים ניצלים ממום הברית, וזה מפני שהוא משפיע שפע קדוש בעולם וטהרה
+- זוכה להיות מוקרב על המזבח ככהן גדול, ולעתיד לבוא זוכה להקריב קרבנות אף על פי שאינו כהן
+- מוחו מתעדן, וזוכה לחכמה, בינה ודעת
+- זוכה להיות מרכבה לעליון
+- זוכה לקרדיט של אחרים, ודבריו מקובלים
+- זוכה לעשות צדקה כראוי
+- זוכה להתפלל כראוי
+- זוכה לאמונה שלמה
+- תחת השגחה פרטית יותר מכל העולם
+- **והמעלה האחרונה והכללית**: כל זמן שבני ישראל שומרים את הברית, שום אומה ולשון לא יכולים לשלוט בהם ולעשות להם רע
+
+---
+
+## 🌍 משאבים נוספים
+
+אם אתה מעוניין לשפר את חייך ולהתגבר על התמכרות לפורנו, חפש [`@NoFap`](https://en.wikipedia.org/wiki/NoFap)
+
+**מקורות נוספים:**
+
+- [Anti-Porn-HOSTS-File](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File) - המקור המקורי
+
+---
+
+## 📄 רישיון
+
+הפרויקט מורשה תחת רישיון MIT. ראה [LICENSE](LICENSE) לפרטים.
+
+---
+
+## 🙏 תודה
+
+תודה על השימוש ב-AntiPorn! אנו מקווים שהכלי יעזור לך בדרכך.
+
+אם הפרויקט עזר לך, שקול:
+
+- ⭐ לתת Star למאגר
+- 🤝 לתרום לפרויקט - ראה [CONTRIBUTING.md](CONTRIBUTING.md)
+- 📢 לשתף עם אחרים הזקוקים לעזרה
+- 🐛 לדווח על בעיות - ראה [Issues](https://github.com/AnLoMinus/AntiPorn/issues)
+
+---
 
 <div align=center>
 

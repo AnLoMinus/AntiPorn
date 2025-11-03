@@ -1,0 +1,82 @@
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Backup files
+*.bak
+*.backup
+*_old
+hosts_old
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Coverage reports
+coverage/
+*.coverage
+.nyc_output/
+.coverage
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node modules (if any)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python virtual environments
+venv/
+env/
+ENV/
+
+# System hosts backup (do not commit)
+/etc/hosts_backup
+/etc/hosts.old
+
+# Local configuration
+.env
+.env.local
+.config.local
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+

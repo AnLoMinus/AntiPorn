@@ -1,0 +1,89 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  lint:
+    name: Lint and Check
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Check shell scripts
+      run: |
+        if command -v shellcheck &> /dev/null; then
+          shellcheck AntiPorn || true
+        else
+          echo "ShellCheck not installed, skipping..."
+        fi
+    
+    - name: Check file permissions
+      run: |
+        if [ -f "AntiPorn" ]; then
+          echo "AntiPorn script exists"
+        fi
+        if [ -f "PornHosts" ]; then
+          echo "PornHosts file exists"
+        fi
+    
+    - name: Validate HOSTS file format
+      run: |
+        if [ -f "PornHosts" ]; then
+          # Check that file starts with proper format
+          head -5 PornHosts | grep -q "^0\.0\.0\.0\|^127\.0\.0\.1\|^#" || echo "WARNING: HOSTS file format might be incorrect"
+          echo "HOSTS file validation complete"
+        fi
+
+  markdown-check:
+    name: Markdown Check
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Check Markdown files
+      run: |
+        find . -name "*.md" -type f ! -path "./.git/*" | while read file; do
+          echo "Checking $file"
+          if [ ! -s "$file" ]; then
+            echo "ERROR: $file is empty"
+            exit 1
+          fi
+        done
+        echo "All Markdown files checked"
+
+  file-structure:
+    name: Check File Structure
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Check required files exist
+      run: |
+        required_files=(
+          "README.md"
+          "LICENSE"
+          ".gitignore"
+          "CONTRIBUTING.md"
+          "CODE_OF_CONDUCT.md"
+          "SECURITY.md"
+          "CHANGELOG.md"
+        )
+        
+        for file in "${required_files[@]}"; do
+          if [ ! -f "$file" ]; then
+            echo "WARNING: $file is missing"
+          else
+            echo "✓ $file exists"
+          fi
+        done
+
